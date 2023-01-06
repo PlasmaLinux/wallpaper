@@ -1,5 +1,5 @@
 #!/bin/sh
 
-sudo mv wallpaper /usr/share/backgrounds/
+sudo mv /wallpaper/Plasma/ /usr/share/backgrounds/
 
 exit0
